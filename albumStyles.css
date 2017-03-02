@@ -18,4 +18,8 @@ body{
 h2{
 text-align : center; 
     color: brown;
+    
+}
+h1{
+    font-family: serif;
 }
